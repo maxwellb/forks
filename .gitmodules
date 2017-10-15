@@ -1,0 +1,18 @@
+[submodule "github/XhmikosR/mpc-hc"]
+	path = github/XhmikosR/mpc-hc
+	url = https://github.com/XhmikosR/mpc-hc.git
+[submodule "github/daveaglick/NovaCodeCampVue"]
+	path = github/daveaglick/NovaCodeCampVue
+	url = https://github.com/daveaglick/NovaCodeCampVue.git
+[submodule "github/AWiderDotNET/AWiderDotNet.github.io"]
+	path = github/AWiderDotNET/AWiderDotNet.github.io
+	url = https://github.com/AWiderDotNET/AWiderDotNet.github.io.git
+[submodule "github/elastic/elasticsearch-net-example"]
+	path = github/elastic/elasticsearch-net-example
+	url = https://github.com/elastic/elasticsearch-net-example.git
+[submodule "github/auth0/webtask-workshop"]
+	path = github/auth0/webtask-workshop
+	url = https://github.com/auth0/webtask-workshop.git
+[submodule "github/ducksboard/gridster.js"]
+	path = github/ducksboard/gridster.js
+	url = https://github.com/ducksboard/gridster.js.git
